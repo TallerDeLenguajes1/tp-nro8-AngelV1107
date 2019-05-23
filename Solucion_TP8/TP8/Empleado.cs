@@ -164,13 +164,13 @@ namespace TP8
         public int Antiguedad()
         {
             DateTime fecha = new DateTime((DateTime.Today - FechaIng).Ticks);
-            return fecha.Year;
+            return fecha.Year - 1;
         }
 
         public int Edad()
         {
             DateTime fecha = new DateTime((DateTime.Today - FechaNac).Ticks);
-            return fecha.Year;
+            return fecha.Year - 1;
         }
 
         public int AniosRestantesJubilacion()
