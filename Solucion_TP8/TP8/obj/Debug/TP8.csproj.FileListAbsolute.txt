@@ -1,0 +1,6 @@
+C:\Users\Alumno\Documents\taller1\tp-nro8-AngelV1107\Solucion_TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\Alumno\Documents\taller1\tp-nro8-AngelV1107\Solucion_TP8\TP8\bin\Debug\TP8.exe
+C:\Users\Alumno\Documents\taller1\tp-nro8-AngelV1107\Solucion_TP8\TP8\bin\Debug\TP8.pdb
+C:\Users\Alumno\Documents\taller1\tp-nro8-AngelV1107\Solucion_TP8\TP8\obj\Debug\TP8.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\taller1\tp-nro8-AngelV1107\Solucion_TP8\TP8\obj\Debug\TP8.exe
+C:\Users\Alumno\Documents\taller1\tp-nro8-AngelV1107\Solucion_TP8\TP8\obj\Debug\TP8.pdb
